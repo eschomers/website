@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
+- {name: 'Collaborations', url: ''}
 - {name: 'Composer',     url: 'blog'}
 - {name: 'Performer',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
