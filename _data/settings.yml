@@ -2,10 +2,10 @@
 # General Site Settings
 
 menu:
-- {name: 'Collaborations', url: ''}
-- {name: 'Composer',     url: 'blog'}
-- {name: 'Performer',    url: 'about'}
-- {name: 'Contact',  url: 'contact'}
+- {name: 'Collaborations', url: 'projects'}
+- {name: 'Composer',       url: 'blog'}
+- {name: 'Performer',      url: 'about'}
+- {name: 'Contact',        url: 'contact'}
 
 #-------------------------------
 # Projects Section
